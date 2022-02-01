@@ -11,4 +11,8 @@ class Dummy {
 		assertTrue(true);
 	}
 
+	@Test
+	public void test2() {
+		assertTrue(true);
+	}
 }
